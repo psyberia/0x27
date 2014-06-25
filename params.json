@@ -1,1 +1,1 @@
-{"name":"0x27","tagline":"0x27","body":"<hr><script>alert('XSS');</script>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"0x27","tagline":"0x27","body":"<hr><script>alert('XSS');</script>\r\nEnjoy","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
